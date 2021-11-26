@@ -69,7 +69,7 @@
 ## Output
 
 
-<img src="https://github.com/SidSolanki28/AWS-Boto-3-Python/blob/main/images/output.PNG">
+<img src="https://github.com/SidSolanki28/AWS-Project-01/blob/master/Images/output.PNG">
 
 
 
