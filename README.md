@@ -33,7 +33,7 @@
 ## Architechture
 
 
-<img src="https://github.com/SidSolanki28/AWS-Boto-3-Python/blob/main/images/Architechture.PNG">
+<img src="https://github.com/SidSolanki28/AWS-Project-01/blob/master/Images/Architechture.PNG">
 
 
 ---
