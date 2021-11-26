@@ -1,8 +1,10 @@
 ## Manage AWS VPC & EC2 using Python with Boto3
 
-<img src="https://github.com/SidSolanki28/AWS-Project-01/blob/master/Images/Architechture.PNG">
+AWS solution to manage EC2 & VPC using Python with Boto3 SDK
 
-Objecive : AWS solution to manage EC2 & VPC using Python with Boto3
+
+<img src="https://github.com/SidSolanki28/AWS-Project-01/raw/master/Images/Architechture.PNG">
+
 
 ---
 
