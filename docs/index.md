@@ -1,6 +1,8 @@
 ## Manage AWS VPC & EC2 using Python with Boto3
 
-You can use the [editor on GitHub](https://github.com/SidSolanki28/AWS-Project-01/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+AWS solution to manage EC2 & VPC using Python with Boto3
+
+--
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
