@@ -5,6 +5,8 @@
 
 - Objective : AWS solution to manage EC2 & VPC using Python with Boto3
 
+Plan, configure, deploy and operate AWS cloud solution
+
 ---
 ## Requisites 
 
